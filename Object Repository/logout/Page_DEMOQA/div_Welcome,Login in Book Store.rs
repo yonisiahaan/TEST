@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome,Login in Book Store</name>
+   <tag></tag>
+   <elementGuidId>a0eebe92-9df1-4390-a05f-3695a82989de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;userForm&quot;]/div[1]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#userForm > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f3f71c3-e4a3-4106-a087-071b81ceeee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome,Login in Book Store</value>
+      <webElementGuid>7bdf79af-0693-4a99-a655-04ee3b35008f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/div[1]</value>
+      <webElementGuid>62d2986d-f500-4e3a-8aa2-29f66984b621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/div</value>
+      <webElementGuid>33a9eadf-1521-48e2-ae27-772d1964addb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>df2649aa-ab32-4afb-9835-5e7e0c28e1b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome,Login in Book Store' or . = 'Welcome,Login in Book Store')]</value>
+      <webElementGuid>e5507890-0985-4fdf-bcdd-c6e883416f47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
